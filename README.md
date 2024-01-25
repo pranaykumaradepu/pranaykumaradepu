@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay Kumar Adepu</h1>
-<h3 align="center">Completed Masters with passion for technology and very much curious</h3>
+<h3 align="center">Completed Masters with passion for technology and very much curiousabouy=t Ai and Ml</h3>
 
 - 🌱 I’m currently learning **Python Fullstack frame**
 
