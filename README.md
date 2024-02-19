@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranay Kumar Adepu</h1>
+<img alt="coding" src="https://github.com/pranaykumaradepu/pranaykumaradepu/blob/main/Black%20Technology%20LinkedIn%20Banner.png">
 <h3 align='left'>Completed Masters with passion for technology and very much curious about AI and ML</h3>
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
